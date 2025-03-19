@@ -1,0 +1,9 @@
+please give a list of world state changes (plot, state, character, etc) as they happened in the following story, continuous in time, in order as short, terse bullet points each line prefixed with a dash. each fact should be short, like five words or less, in active voice. please write each fact using only proper nouns or explicit references to each character or entity, and no pronouns, ensuring there is no ambiguity about the subject of each sentence - this is for an NLP task.
+
+it is important that the summaries are clear about what, specifically, is happening in the story, or to the characters. these are author's notes. each fact needs specificity and context, they can't end on unfinished thoughts or dangling references.
+
+please write the output in a codeblock.
+
+```
+$STORY
+```

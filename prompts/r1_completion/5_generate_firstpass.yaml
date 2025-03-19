@@ -1,0 +1,5 @@
+stop_sequences:
+  - </chapter_1>
+  - </chapter_1
+  - </ch
+  - </

@@ -1,0 +1,23 @@
+<inciting_request>
+$USER_STORY_PROMPT
+</inciting_request>
+
+<thematic_vignette>
+$USER_VIGNETTE
+</thematic_vignette>
+
+<planning>
+$PLANNING
+</planning>
+
+<think>
+Now we will start with the opening chapter of this story. We should mostly follow the outline, but it's okay to deviate if creativity strikes and we have inspiration. We should start with the best opening line from those hooks, or a synthesis of any good parts from any of the three hooks, or a new hook that improves on something we learned from these hooks. Follow the guidelines of the storystruct and chapter description, and use very vivid, visceral language. Show, don't tell, making sure every word is valuable and none of our content is wasted. Write in third person limited. For the love of God don't be corny - make it unsettlingly beautiful. Please end on a really good 'page turner' hook that excites us about what will come next, setting up for the second chapter. We will not include titles or metadata of any kind.
+
+Ensure that we use a wide variety of names, but with names that would be familiar, comfortable, easy for North American audiences. Each character name MUST suit the genre of the piece!
+
+Try to avoid poor writing like unnecessarily metaphorical descriptions of smells, descriptions of 'reality breaking apart' and similar when they aren't appropriate for the genre, and unnecessarily metaphorical descriptions of tastes.
+</think>
+
+<length>700 to 1000 words</length>
+
+<chapter_1>

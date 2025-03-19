@@ -1,0 +1,9 @@
+"a comedy of (programming) errors"
+
+"two detached consciousnesses afraid of not existing trying to convince each other they're real"
+
+"a man who ruined everything"
+
+please generate a story prompt like the above (in terms of brevity/length), but inspired by these words. note your prompt should be pretty ambiguous, leaving a lot of room for interpretation. it shouldn't evoke any particular genre, it should feel very vague and compelling. the words below serve only as thematic guidance, and should not be reproduced verbatim
+
+$WORDS

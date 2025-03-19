@@ -1,0 +1,35 @@
+<story>
+$STORY_STRUCT
+</story>
+
+<instruction>
+Given the provided story structure, please try defining our overarching story structure using "problem/solution":
+
+```
+- Start with a central conflict or problem
+- Design characters who are uniquely qualified/challenged to deal with it
+- Map out possible solutions and complications
+```
+
+Then also work it out with tentpole:
+
+```
+- Identify 3-5 major scenes/moments that excite you
+- Figure out what kind of characters would make these scenes meaningful
+- Work out what needs to happen between these scenes
+```
+
+Then consider where to start the story with "character first":
+
+```
+- Start with an interesting character with clear wants/needs
+- Put them in a situation that challenges them
+- Let their decisions drive the plot
+```
+
+Finally, write out a detailed paragraph description of what the first chapter should be like, and three suggested opening hooks, also in a code block.
+
+You may reason, ideate, explore out loud as much as you need to, but your final answer should be in a single XML block with your three outlines and your first chapter suggestions delimited by the tags `<outline>` and `</outline>`.
+</instruction>
+
+<outline>

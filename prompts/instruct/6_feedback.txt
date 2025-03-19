@@ -1,0 +1,19 @@
+<inciting_request>
+$USER_STORY_PROMPT
+</inciting_request>
+
+<thematic_vignette>
+$USER_VIGNETTE
+</thematic_vignette>
+
+<writing>
+$STORY
+</writing>
+
+<goal>
+I will provide a short first attempt at a chapter that is supposed to be inspired by/expanded from this vignette. Please tell me how it could be improved, paying particular attention to writing strength, showing rather than telling, keeping the reader engaged, promises, plot, payoff, and strong characterization. I am mostly interested in prose and writing style rather than the theme or plot details, though structure may be changed.
+
+Every word should have value, making sure that our prose is economical/concise/tight in service to our story and characters. We want our story to be a page turner, so we should end on a really good hook that excites or invites curiosity, makes you look forward to what will happen next. Please focus on verbally describing how to improve the writing rather than doing it for me, though you may suggest some specific improvements to opening lines or ending hooks (but only if you have really banger excellent ideas).
+
+Do not warn about things that are not bad in this writing, focus only on fairly objective improvements mostly related to prose and presentation, NOT story, foreshadowing, etc. If something is good, don't mention it.
+</goal>

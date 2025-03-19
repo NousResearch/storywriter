@@ -1,0 +1,29 @@
+I want five representative single sentence description 'prompts' for this vignette. imagine we're working backwards: if we were to make a story writing contest, the sentence we're making here could have inspired someone to write the given vignette. I will first provide some examples of prompts (for other vignettes, not this one!)
+
+`he is an honorable man who held onto his soul`
+
+`"Does this soul look crooked to you?"`
+
+`command forgot to check with us first, private`
+
+`surprise and delay even the most aggressive adversary. independently engage and repel attackers even if all human crew have been killed or disabled`
+
+`say it's the end of an age`
+
+`a story about a man named george who ruined everything`
+
+given this vignette:
+
+```
+$USER_VIGNETTE
+```
+
+give me five prompts for:
+
+- one grounded in the physical
+- one grounded in the characters
+- one that's thematic
+- one that's a compromise between those factors
+- one that's ambiguous but fits
+
+make sure each prompt is its own plain text codeblock so they can be extracted by software.

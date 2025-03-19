@@ -1,0 +1,7 @@
+Please convert the following text to Shakespearean prose, preserving the emotional tone, theme, narrative, prose as closely as possible.
+
+Do NOT include any other text besides the prose, which should be placed within a code block.
+
+<text>
+$TEXT
+</text>

@@ -1,0 +1,29 @@
+- name: "claude-sonnet"
+  auth: "anthropic"
+  model:
+    type: "anthropic"
+    model: "claude-3-sonnet-20240229"
+- name: "deepseek-r1-completion"
+  auth: "fireworks"
+  model:
+    type: "openai_completion"
+    temperature: 1.0
+    top_p: 0.95
+    min_p: 0.03
+    model: "accounts/fireworks/models/deepseek-r1"
+    max_completion_length: 5000
+- name: "deepseek-r1"
+  auth: "fireworks"
+  model:
+    type: "openai"
+    temperature: 1.0
+    top_p: 0.95
+    min_p: 0.03
+    model:
+      custom_model_name: "accounts/fireworks/models/deepseek-r1"
+      max_completion_length: 5000
+- name: "claude3-opus"
+  auth: "anthropic"
+  model:
+    type: "anthropic"
+    model: "claude-3-opus-20240229"

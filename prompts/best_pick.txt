@@ -1,0 +1,34 @@
+I will provide five vignettes, please choose the one that you think is most exciting/interesting/engaging.
+
+Each vignette will be placed in a code block and prefixed with a number.
+
+You may explain your reaoning, but your answer MUST be only a SINGLE NUMBER placed within a code block.
+
+No other code blocks should be present in your answer, nor should any of the vignette text be reproduced.
+
+Items follow:
+
+1
+```
+$VIGNETTE1
+```
+
+2
+```
+$VIGNETTE2
+```
+
+3
+```
+$VIGNETTE3
+```
+
+4
+```
+$VIGNETTE4
+```
+
+5
+```
+$VIGNETTE5
+```

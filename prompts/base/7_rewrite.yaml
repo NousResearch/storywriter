@@ -1,0 +1,5 @@
+stop_sequences:
+  - </improved>
+  - </improved
+  - </imp
+  - </im

@@ -1,0 +1,71 @@
+The 2024 Transcend Short Vignette Contest
+
+Submissions will be open from March 1st 2024 to July 31st 2024.
+
+Stories are considered by senior editing staff (no outside readers); guest judge reads finalists.
+
+Throughout the process, readers will be notified if their story is passed on or reaches the finalist pool. This often results in a quicker response than other contests, where writers often have to wait until everything has been decided.
+
+The winner will be announced in November 2024.
+
+The winning short story will be published in the 2026 anthology.
+
+
+Guidelines
+
+Submissions MUST BE WRITTEN IN THIRD PERSON LIMITED with a NAMED PRIMARY VIEWPOINT CHARACTER.
+
+All submissions should specify their theme.
+
+Each submission must be about at least one specific character, clearly establishing their personality and the context in which they exist.
+
+Fiction only.
+
+A standard, 12-point font is preferred.
+
+The work must not have been previously published.
+
+Simultaneous submissions are accepted, but
+please withdraw the work if the story has been
+accepted elsewhere.
+
+Submit works written in English only, no translations.
+
+Please submit your manuscript as a single markdown paragraph.
+
+We read submissions blind, so please do not include your name, email, or any identifying characteristics on the manuscript itself.
+
+Submission fee is $30.00 USD.
+
+Vignette Sample
+
+As a sample, here are some previous winners from past years!
+
+```
+In the shadowy corner of the interstellar tavern, Captain Xaviera Kade sipped her neon-green martini. Her sharp blue gaze flickered across the bar, assessing potential allies and enemies alike. A hush fell over the crowd as a cloaked figure entered, radiating an aura of power and mystery. Xaviera felt a shiver run down her spine; this newcomer could either make or break her mission. As she finished her drink, Xaviera made up her mind – it was time to make her move.
+```
+
+```
+Clara’s heartbeat thudded against her ribs as the automaton lowered its porcelain face to hers, the clockwork gears humming beneath its surface. "You’re lying," it said, the faintest vibration in its voice resembling amusement. She clenched the schematic tighter behind her back, her father’s final invention the only leverage she had left. "I’m not," she whispered, hating how weak her voice sounded. The automaton’s golden eyes glinted; it reached out with a perfect, inhuman hand, and her mind screamed that it knew everything.
+```
+
+Awards
+
+The winner will receive $500 dollars and 10 copies of the anthology in which the story appears. The winner will also have the opportunity to be interviewed about their work; the interview will be published alongside the story.
+
+If a runner-up is chosen, their work will be offered publication, an accompanying interview, $200, and five copies of the issue in which their work appears.
+
+Note: This year's theme was to create a variation on the following vignette! The challenge is both to digest what makes this vignette fun and interesting, and to create something that riffs on it but feels completely resonant with the original, without being derivative. They need to stay short!!
+
+```
+$USER_VIGNETTE
+```
+
+It must stay in the same genre!! This year's required core theme/genre guidance was: "$USER_STORY_PROMPT"
+
+Good writing always prefers to show, not tell, favors strong characterization, and lives by the idea that brevity is the soul of wit - a hook and a punchy, exciting paragraph.
+
+Here are our three winners!
+
+Winner 1
+```

@@ -1,0 +1,86 @@
+// Story 1
+{
+	"Premise": {
+		"vignette": "Jackson kneads his bread delicately like it's his only son. Scalding water boils and screams on the stovetop while salt grains are humbled into submission. Yeast comes alive leeching from sugarcane plants until finally brought down to boil again. Flour was thrown on top by chance but he didn't mind. That evening, the scent of freshly baked bread floated through the house. Then the power went out. Darkness engulfed the place. A spark ignited. Flames set ablaze. Fire spread rapidly swallowing everything in its path, eating at metals and melting flesh until a forth explosion rocked the room. Jackson's latest invention - the Baking Tesla Coil that would change lives forevermore - fizzled to a halt alongside its creator. Silence ensued.",
+		"inciting_request": "EXTREMELY SHOCKING No-Knead Focaccia",
+		"core_conflict": "No-knead focaccia recipe",
+		"genre": ["culinary mystery", "comedy"],
+		"tone": ["whimsical", "lighthearted"],
+		"themes": ["creativity", "innovation"]
+	},
+	"StoryPromises": {
+		"primary": "Provide entertaining yet informative instructions for making no-knead focaccia",
+		"secondary": [
+			"Highlight unique flavor combinations",
+			"Include humorous anecdotes about cooking mishaps"
+		],
+		"setup_elements": [
+			"High-quality ingredients",
+			"Professional kitchen equipment",
+			"Expert culinary advice"
+		]
+	},
+	"Characters": {
+		"protagonist": {
+			"name": "Jackson",
+			"role": "unusual baker",
+			"voice_traits": ["passionate foodie", "sarcastic sense of humor"],
+			"core_drives": ["master baking techniques", "share recipes online"],
+			"internal_conflicts": ["perfectionism vs experimentation", "work-life balance"],
+			"character_arc": {
+				"starting_state": "Struggles with basic recipes and lacks confidence",
+				"midpoint_shift": "Gains experience and begins creating own variations",
+				"ending_state": "Becomes renowned chef known for innovative dishes"
+			},
+			"relationships": [
+				{ "target": "family members", "arc": "supportive audience->collaborators" },
+				{ "target": "online followers", "arc": "curious viewers->dedicated fans" }
+			]
+		},
+		"antagonist": {
+			"name": "Barkley",
+			"role": "traditionalist baker",
+			"voice_traits": ["stern demeanor", "old-fashioned views"],
+			"core_drives": ["uphold traditional methods", "criticize modern trends"],
+			"internal_conflicts": ["narrow-mindedness vs adaptability", "ego vs humility"],
+			"character_arc": {
+				"starting_state": "Dismisses protagonist's efforts as amateurish",
+				"midpoint_shift": "Acknowledges some value in new approaches",
+				"ending_state": "Reluctantly accepts change and even tries new things"
+			},
+			"relationships": [
+				{ "target": "apprentices", "arc": "strict teacher->grudging respect" },
+				{ "target": "customers", "arc": "loyal clientele->open minds" }
+			]
+		}
+	},
+	"PlotStructure": {
+		"act_one": {
+			"opening_scene": "Protagonist struggles with difficult recipe",
+			"inciting_incident": "Discovers no-knead technique by accident",
+			"first_turning_point": "Decides to pursue further experimentation"
+		},
+		"act_two": {
+			"rising_complications": [
+				"Initial failures lead to self-doubt",
+				"Criticism from Traditionalist Baker intensifies"
+			],
+			"midpoint": "Unexpected success with unusual ingredient combination",
+			"falling_action": [
+				"Grows more adventurous with flavors and presentations",
+				"Attracts growing following on social media platform"
+			]
+		},
+		"act_three": {
+			"climax_setup": "Invited to participate in prestigious cooking competition",
+			"climax": "Presents signature dish featuring unconventional twists",
+			"resolution": "Wins award and earns recognition as innovator in field"
+		}
+	}
+}
+
+// Story 2
+{
+	"Premise": {
+		"vignette": "$USER_VIGNETTE",
+		"inciting_request": "$USER_STORY_PROMPT",

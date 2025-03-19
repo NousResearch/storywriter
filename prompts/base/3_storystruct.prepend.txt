@@ -1,0 +1,4 @@
+{
+	"Premise": {
+		"vignette": "$USER_VIGNETTE",
+		"inciting_request": "$USER_STORY_PROMPT",

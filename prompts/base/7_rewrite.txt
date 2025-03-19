@@ -1,0 +1,21 @@
+<inciting_request>
+$INCITING_REQUEST
+</inciting_request>
+
+<thematic_vignette>
+$VIGNETTE
+</thematic_vignette>
+
+<story>
+$STORY
+</story>
+
+<feedback>
+$FEEDBACK
+</feedback>
+
+<goal>
+Improve the original piece of writing according to the feedback, but only where you think listening to the feedback will improve the quality of the writing and/or prose. DO NOT change the tone, theme, or plot details. Do not add or remove anything related to story elements, focus only on the style, presentation, and prose.
+</goal>
+
+<improved>
